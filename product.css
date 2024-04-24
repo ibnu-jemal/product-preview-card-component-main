@@ -42,17 +42,17 @@ h5{
     letter-spacing: 3px;
     color: hsl(228, 12%, 48%);
     font-weight: 700;
-    font-size: 20px;
+    font-size: 15px;
 }
 h1{
     font-weight: 700;
     /* width: 140px; */
-      font-size: 35px;
+      font-size: 25px;
 }
 p{
     color: hsl(228, 12%, 48%);  
     /* width: 190px; */
-    font-size: 16px;
+    font-size: 14px;
 }
 .price{
     display: flex;
@@ -63,12 +63,12 @@ p{
     margin-right: 20px;
     color: hsl(158, 36%, 37%);
 font-weight: 700;
-font-size: 30px;
+font-size: 20px;
 }
 .after{
     color: hsl(228, 12%, 48%);  
     text-decoration: line-through; 
-    font-size: 20px;
+    font-size: 15px;
 }
 .cart{
     display: flex;
@@ -78,12 +78,12 @@ font-size: 30px;
 justify-content: center;
 gap: 10px;
 color: hsl(0, 0%, 100%);
-padding: 15px;
+padding: 10px;
 }
 .cart a{
     color: hsl(0, 0%, 100%);
     font-size: 17px;
 }
 .cart img{
-width: 13px;
+width: 10px;
 }
